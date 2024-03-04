@@ -19,7 +19,7 @@ import PageNotFound from "./pages/PageNotFound";
 
 import AppLayout from "./ui/AppLayout";
 import Booking from "./pages/Booking";
-import CheckIn from "./pages/Checkin";
+import CheckIn from "./pages/CheckIn";
 import ProtectedRoute from "./ui/ProtectedRoute";
 import { DarkModeProvider } from "./context/DarkModeContext";
 
