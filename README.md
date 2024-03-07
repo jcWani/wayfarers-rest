@@ -1,12 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/logo-light.png" alt="Logo" width="80" height="80">
-  </a>
-
+  <img src="./public/logo-light.png" alt="Logo" width="80" height="80">
   <h3 align="center">Wayfarers Rest</h3>
-
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -100,27 +96,31 @@ You can log in using the provided demo account details:
 ## 🛠 Installation Steps:
 
 <p>1. Clone the repository</p>
+
 ```
 git clone https://github.com/jcWani/wayfarers-rest.git
 ```
 
 <p>2. Install required dependencies </p>
+
 ```
 npm install
 ```
 
 <p>3. Launch the development server</p>
+
 ```
 npm run dev
 ```
 
 <p>4. Open the application at</p>
+
 ```
 http://localhost:5173
 ```
 
 <!-- ACKNOWLEDGEMENTS -->
 
-### Acknowledgments
+## Acknowledgments
 
 This appplication was the main project and developed as part of the [Udemy course](https://www.udemy.com/course/the-ultimate-react-course) "The Ultimate React Course 2024: React, Redux & More" by [Jonas Schmedtman](https://twitter.com/jonasschmedtman).
