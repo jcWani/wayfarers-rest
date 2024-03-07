@@ -1,9 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <img src="./public/logo-light.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Wayfarers Rest</h3>
-</div>
+<h1 align="center">Wayfarers Rest</h1>
 
 <!-- ABOUT THE PROJECT -->
 
