@@ -6,8 +6,6 @@
 
 ## About The Project
 
-![Screenshot](./public/wayfarers-rest-dashboard.png)
-
 <p align="center">
 Wayfarers Rest Hotel Management Application is a web-based platform designed to streamline hotel operations. Developed using React technology, this application empowers hotel staff to efficiently manage rooms, bookings, and guest services.
 </p>
