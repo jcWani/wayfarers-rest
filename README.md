@@ -61,21 +61,19 @@ Wayfarers Rest Hotel Management Application is a web-based platform designed to 
 
 The Wild Oasis Hotel Management Application is built using the following technologies and libraries:
 
-- **React**: A JavaScript library for building user interfaces.
+- **React**: React is a JavaScript library for building dynamic user interfaces efficiently, allowing developers to create reusable UI components and manage application state effectively.
 
-- **Supabase**: An open-source alternative to Firebase, offering a suite of tools and services for building and scaling applications, including authentication, database management, and real-time updates.
+  - **React Query**: React Query is a data-fetching library designed specifically for React applications. It simplifies managing and caching asynchronous data queries from APIs or other sources, enhancing application performance and user experience.
 
-- **React Query**: A data-fetching library for React applications, providing tools for managing and caching asynchronous data queries from APIs or other sources.
+  - **React Router**: React Router is a popular routing library for React applications, enabling seamless navigation and URL routing within single-page applications (SPAs) with features like nested routing and route guarding.
 
-- **React Router**: A popular routing library for React applications, enabling developers to manage navigation and URL routing within single-page applications.
+  - **React Hook Form**: React Hook Form is a lightweight form library for React applications, offering a simple API based on React hooks for easy form creation, validation, and state management.
 
-- **React Hook Form**: A lightweight and performant form library for React applications, offering a simple API for building and managing forms using React hooks.
+- **Supabase**: Supabase is an open-source alternative to Firebase, providing tools and services for building and scaling modern applications, including authentication, database management, and real-time updates.
 
-- **Recharts**: A composable charting library for React applications, offering a wide range of chart types and customization options for visualizing data.
+- **Styled Components**: Styled Components is a CSS-in-JS library for React applications, allowing developers to write CSS styles directly within JavaScript code using tagged template literals, promoting modularity and reusability.
 
-- **Styled Components**: A CSS-in-JS library for React applications, allowing developers to write CSS styles directly within their JavaScript code using tagged template literals.
-
-- **Vite**: A modern build tool for JavaScript applications, optimized for fast development and performance. It supports various frameworks and provides features like hot module replacement and lightning-fast builds.
+- **Vite**: Vite is a modern build tool optimized for JavaScript applications, offering features like hot module replacement, fast builds, and support for various frameworks, streamlining the development process without compromising performance.
 
 <!-- LIVE DEMO -->
 
