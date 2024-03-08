@@ -81,7 +81,7 @@ The Wild Oasis Hotel Management Application is built using the following technol
 
 ## 🚀 Live Demo
 
-[https://the-wayfarers-rest.vercel.app/](https://the-wayfarers-rest.vercel.app/)
+[https://wayfarers-rest.vercel.app/](https://wayfarers-rest.vercel.app/)
 
 ## 🎮 Demo Account
 
