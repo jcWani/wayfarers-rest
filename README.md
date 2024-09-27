@@ -7,7 +7,7 @@
 ## About The Project
 
 <p align="center">
-Wayfarers Rest is an hotel management web application. Developed using react, this is web app designed for the employees of Wayfarers Rest. It allows them to manage the operations such as booking management, customer information, room availability, and other administrative tasks.
+Wayfarers Rest is an hotel management web application. Developed using react, this web app designed for the employees of Wayfarers Rest. It allows them to manage the operations such as booking management, customer information, room availability, and other administrative tasks.
 </p>
 
 ![Screenshot](./public/wayfarers-rest-home.png)
