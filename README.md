@@ -6,11 +6,11 @@
 
 ## About The Project
 
-![Screenshot](./public/wayfarers-rest-home.png)
-
 <p align="center">
-Wayfarers Rest Hotel Management Application is a web-based platform designed to streamline hotel operations. Developed using React technology, this application empowers hotel staff to efficiently manage rooms, bookings, and guest services.
+Wayfarers Rest is an hotel management web application. Developed using react, this is web app designed for the employees of Wayfarers Rest. It allows them to manage the operations such as booking management, customer information, room availability, and other administrative tasks.
 </p>
+
+![Screenshot](./public/wayfarers-rest-home.png)
 
 <!-- APPLICATION'S FEATURES -->
 
@@ -59,7 +59,7 @@ Wayfarers Rest Hotel Management Application is a web-based platform designed to 
 
 ## 👨‍💻 Technology Used
 
-The Wild Oasis Hotel Management Application is built using the following technologies and libraries:
+The Wayfarers Rest Web Application is built using the following technologies and libraries:
 
 - **React**: React is a JavaScript library for building dynamic user interfaces efficiently, allowing developers to create reusable UI components and manage application state effectively.
 
@@ -87,6 +87,14 @@ You can log in using the provided demo account details:
 
 - **Email**: jameswaniwan@gmail.com
 - **Password**: 12345678
+
+<!-- CLIENT -->
+
+## 🙍🏻‍♂️ Customer Portal
+
+This is the employee portal of Wayfarest Rest. You can also check out the client app of Wayfarers Rest below. Both applications share the same database.
+
+- **Customer Portal**: [https://wayfarers-rest-website.vercel.app/](https://wayfarers-rest-website.vercel.app/)
 
 ## 🛠 Installation Steps:
 
