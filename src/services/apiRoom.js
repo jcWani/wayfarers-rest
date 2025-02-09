@@ -48,7 +48,7 @@ export async function createUpdateRoom(newRoom, id) {
     .upload(imageName, newRoom.image);
 
   if (storageError) {
-    await supabase.from("cabins").delete().eq("id", data.id);
+    await supabase.from("rooms").delete().eq("id", data.id);
     throw new Error(
       "Room image could not be uploaded and the room was not created"
     );
